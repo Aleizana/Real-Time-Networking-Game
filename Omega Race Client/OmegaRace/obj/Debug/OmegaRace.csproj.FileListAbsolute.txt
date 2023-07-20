@@ -1,0 +1,14 @@
+C:\Users\16305\Documents\NET386\berthiaume2023spring_csc386\student\jhern248\FinalPart4\Omega Race Client\OmegaRace\bin\Debug\OmegaRace.exe.config
+C:\Users\16305\Documents\NET386\berthiaume2023spring_csc386\student\jhern248\FinalPart4\Omega Race Client\OmegaRace\bin\Debug\OmegaRace.exe
+C:\Users\16305\Documents\NET386\berthiaume2023spring_csc386\student\jhern248\FinalPart4\Omega Race Client\OmegaRace\bin\Debug\OmegaRace.pdb
+C:\Users\16305\Documents\NET386\berthiaume2023spring_csc386\student\jhern248\FinalPart4\Omega Race Client\OmegaRace\bin\Debug\AzulCoreCLRDebug.dll
+C:\Users\16305\Documents\NET386\berthiaume2023spring_csc386\student\jhern248\FinalPart4\Omega Race Client\OmegaRace\bin\Debug\Box2DX.dll
+C:\Users\16305\Documents\NET386\berthiaume2023spring_csc386\student\jhern248\FinalPart4\Omega Race Client\OmegaRace\bin\Debug\irrKlang.NET4.dll
+C:\Users\16305\Documents\NET386\berthiaume2023spring_csc386\student\jhern248\FinalPart4\Omega Race Client\OmegaRace\bin\Debug\Lidgren.Network.dll
+C:\Users\16305\Documents\NET386\berthiaume2023spring_csc386\student\jhern248\FinalPart4\Omega Race Client\OmegaRace\bin\Debug\Lidgren.Network.pdb
+C:\Users\16305\Documents\NET386\berthiaume2023spring_csc386\student\jhern248\FinalPart4\Omega Race Client\OmegaRace\bin\Debug\Box2DX.pdb
+C:\Users\16305\Documents\NET386\berthiaume2023spring_csc386\student\jhern248\FinalPart4\Omega Race Client\OmegaRace\obj\Debug\OmegaRace.csproj.AssemblyReference.cache
+C:\Users\16305\Documents\NET386\berthiaume2023spring_csc386\student\jhern248\FinalPart4\Omega Race Client\OmegaRace\obj\Debug\OmegaRace.csproj.CoreCompileInputs.cache
+C:\Users\16305\Documents\NET386\berthiaume2023spring_csc386\student\jhern248\FinalPart4\Omega Race Client\OmegaRace\obj\Debug\OmegaRace.csproj.CopyComplete
+C:\Users\16305\Documents\NET386\berthiaume2023spring_csc386\student\jhern248\FinalPart4\Omega Race Client\OmegaRace\obj\Debug\OmegaRace.exe
+C:\Users\16305\Documents\NET386\berthiaume2023spring_csc386\student\jhern248\FinalPart4\Omega Race Client\OmegaRace\obj\Debug\OmegaRace.pdb
