@@ -51,4 +51,4 @@ In this project, I learned that efficient network communication is a lot like a 
 understand the "Level 0" and the "Level 5" of your project to know how to do maintenance, and as far as the Game Programming aspect goes, you need to be able to write code that is optimized and clear. That is what I learned from this project, and I have
 a much deeper appreciation for networked games and software design as a result. 
 
-## Stricter Use of Design Patterns Coming Soon!
+## Large Update With a Heavy Focus on Design Patterns Coming Soon!!
